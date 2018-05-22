@@ -1,0 +1,2 @@
+	@EmbeddedId
+	private ${attributeType} ${attributeName};
